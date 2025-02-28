@@ -1,0 +1,7 @@
+data:存放数据集
+
+checkpoint：保存模型权重
+
+tensorboard：训练过程可视化
+
+result：测试生成
